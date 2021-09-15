@@ -1,8 +1,7 @@
 # IPL-Data-Analysis-and-Visualization
 
 
-![IPL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.india.com%2Fsports%2Fipl-2018-full-squads-check-complete-payers-list-of-ipl-11-teams-2867446%2F&psig=AOvVaw3_MScVYqjBQSQX7tCVLgyI&ust=1631814887743000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIChp6fGgfMCFQAAAAAdAAAAABAO)
-
+![image](https://static.india.com/wp-content/uploads/2018/01/IPL-1.jpg)
 
 The Indian Premier League (IPL) is a professional Twenty20 cricket league in India usually contested between March and May of every year by eight teams representing eight different cities or states in India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2007. The IPL is the most-attended cricket league in the world and the brand value of the IPL in 2019 was ₹475 billion (US$6.7 billion)
 
